@@ -1,0 +1,32 @@
+/* section 1 on the page */
+#section1{
+    border: 2px solid green;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+img {
+    width:200px;
+    height:200px;
+}
+
+.box{
+    border: 2px solid black;
+}
+
+#box1{
+    display: flex;
+    gap: 10px;
+    flex-grow: 2;
+    height:210px
+
+}
+#box2{
+    flex-grow: 1;
+    height:210px;
+}
+
+/* section 2 */
+
+/* section 3 */
